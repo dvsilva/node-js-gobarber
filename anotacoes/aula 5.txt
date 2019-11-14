@@ -40,7 +40,8 @@ AULA 5
     - mas no nosso caso é apenas o nosso JSON que será retornado ao front-end e depois manipuado pelo ReactJS ou React Native
   - A face de um controller
     - Classes
-    - retorna um JSON- não chama outro controller/método
+    - retorna um JSON
+    - não chama outro controller/método
     - quando criar um novo controller
       - apenas 5 métodos (index, show, store, update, delete)
       - mais que 5 não / menos pode ser
