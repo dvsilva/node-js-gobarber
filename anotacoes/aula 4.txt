@@ -4,6 +4,7 @@ AULA 4
   - versão antiga do docker
   - se não tiver requerimentos
   - usa o virtualbox
+  - configurar portforward da porta do post entre vbox <-> localhost
 - verificar se está instalado -> docker -v
 - ajuda do docker -> docker --help
 - criar serviços -> docker postgres (https://hub.docker.com/_/postgres)
