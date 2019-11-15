@@ -23,7 +23,7 @@ module.exports = {
         allowNull: false,
       },
       provider: {
-        type: Sequelize.BOLLEAN,
+        type: Sequelize.BOOLEAN,
         defaultValue: false,
         allowNull: false,
       },
